@@ -1,0 +1,4 @@
+The word which is pre-defined in the library is called keyword.
+It's functionality is also pre-defined.
+Keyword can not be used as a variable,function name ,class name or as an any identifier.
+Example of keywords are if,else,for,def etc.

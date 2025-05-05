@@ -11,5 +11,5 @@ game()
 def Local():
     c = "Python"
     print(x)
-Loacl()
-print(c)
+Local()
+

@@ -1,0 +1,5 @@
+It is very simple to write and execute any Python Program.
+Python Program can be executed directly in the command line .
+
+input :- print("Hello World")
+output:- Hello World 
